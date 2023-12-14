@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labb3SQLORM", "Labb3SQLORM.csproj", "{C1DA4215-F4BD-4AA4-9493-D6580A77FEBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1DA4215-F4BD-4AA4-9493-D6580A77FEBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1DA4215-F4BD-4AA4-9493-D6580A77FEBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1DA4215-F4BD-4AA4-9493-D6580A77FEBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1DA4215-F4BD-4AA4-9493-D6580A77FEBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8D1836E-1DFC-4828-822C-5BC47F84E2D6}
+	EndGlobalSection
+EndGlobal
